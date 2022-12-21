@@ -1,0 +1,13 @@
+[GRID_UFRAME]G_PRINT_RSLT  Storage: DRAM  Access: RW  : BOOLEAN = Uninitialized
+
+[GRID_UFRAME]WRITE_VALUE1  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[GRID_UFRAME]WRITE_VALUE2  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[GRID_UFRAME]$GRD_FRM_T  Storage: DRAM  Access: RW  : GRD_FRM_T = 
+   Field: $GRD_FRM_T.CAMDATA_NAME Access: RW: STRING[36] = Uninitialized
+   Field: $GRD_FRM_T.GRID_SPACING Access: RW: REAL = Uninitialized
+   Field: $GRD_FRM_T.GRP_NUM Access: RW: INTEGER = Uninitialized
+   Field: $GRD_FRM_T.FRM_NUM Access: RW: INTEGER = Uninitialized
+   Field: $GRD_FRM_T.FRAME_TYPE Access: RW: INTEGER = Uninitialized
+

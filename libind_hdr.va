@@ -1,0 +1,26 @@
+[LIBIND_HDR]$IND_HDR_T  Storage: DRAM  Access: RW  : IND_HDR_T = 
+   Field: $IND_HDR_T.LENGTH_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_HDR_T.MSG_TYPE_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_HDR_T.COMM_TYPE_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_HDR_T.REPLY_TYPE_ Access: RW: INTEGER = Uninitialized
+
+[LIBIND_HDR]$IND_PKT_T  Storage: DRAM  Access: RW  : IND_PKT_T = 
+   Field: $IND_PKT_T.LENGTH_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_PKT_T.MSG_TYPE_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_PKT_T.COMM_TYPE_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_PKT_T.REPLY_TYPE_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_PKT_T.SEQ_NR_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_PKT_T.JOINT_DATA_  ARRAY[10] OF REAL
+    [1] = Uninitialized
+    [2] = Uninitialized
+    [3] = Uninitialized
+    [4] = Uninitialized
+    [5] = Uninitialized
+    [6] = Uninitialized
+    [7] = Uninitialized
+    [8] = Uninitialized
+    [9] = Uninitialized
+    [10] = Uninitialized
+   Field: $IND_PKT_T.VELOCITY_ Access: RW: REAL = Uninitialized
+   Field: $IND_PKT_T.DURATION_ Access: RW: REAL = Uninitialized
+

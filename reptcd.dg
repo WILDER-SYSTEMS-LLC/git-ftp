@@ -1,0 +1,171 @@
+PX01:
+ task_name:   ROS_WILDER   rout_name:   ROS_WILDER   cur_line:             1
+ task_pri:            50   invisible:           No   system task:         No
+ open_id:             -1   ept_index:         2105   task_st:        ABORTED
+ THC: 0x0000000000000000   strt_hld_cnd:0x00000000   curln_stat:   LN_NOTEXE
+ pre_executing:       No   start_pre:    PEX_UNDEF   done_pre:       PEX_CNT
+ pre_open_id:         -1   pre_ept_index:        0   pre_line:             0
+ to_rel_mctl:       0x00   to_unlock:         0x00   hld_grp_msk:       0x00
+ num_out_exe_mmr:      0   num_out_mmr:          0   num_out_amr:          0
+ num_out_nowait_amr:   0   master_rob_num:      -1   my_own_rob_num:      -1
+
+Routine Nesting:
+Currently at   ROS_WILDER LN# 1 
+Main program   ROS_WILDER LN# 0 
+
+PX02:
+ task_name:    ROS_STATE   rout_name: SSOCK_ACCEPT   cur_line:           169
+ task_pri:            50   invisible:           No   system task:         No
+ open_id:              7   ept_index:         1810   task_st:        RUNNING
+ THC: 0x0000000000000400   strt_hld_cnd:0x00000000   curln_stat:   LN_NOTEXE
+  hold for> PKTWT 
+ pre_executing:       No   start_pre:    PEX_UNDEF   done_pre:       PEX_CNT
+ pre_open_id:         -1   pre_ept_index:        0   pre_line:             0
+ to_rel_mctl:       0x00   to_unlock:         0x00   hld_grp_msk:       0x00
+ num_out_exe_mmr:      0   num_out_mmr:          0   num_out_amr:          0
+ num_out_nowait_amr:   0   master_rob_num:      -1   my_own_rob_num:      -1
+
+Routine Nesting:
+Currently at SSOCK_ACCEPT LN# 169 
+   Called by SSOCK_ACCPT2 LN# 254 
+   Called by    ROS_STATE LN# 231 
+Main program    ROS_STATE LN# 0 
+
+PX03:
+ task_name: ROS_STATE_WILDER   rout_name: SSOCK_ACCEPT   cur_line:           169
+ task_pri:            50   invisible:           No   system task:         No
+ open_id:              8   ept_index:         1832   task_st:        RUNNING
+ THC: 0x0000000000000400   strt_hld_cnd:0x00000000   curln_stat:   LN_NOTEXE
+  hold for> PKTWT 
+ pre_executing:       No   start_pre:    PEX_UNDEF   done_pre:       PEX_CNT
+ pre_open_id:         -1   pre_ept_index:        0   pre_line:             0
+ to_rel_mctl:       0x00   to_unlock:         0x00   hld_grp_msk:       0x00
+ num_out_exe_mmr:      0   num_out_mmr:          0   num_out_amr:          0
+ num_out_nowait_amr:   0   master_rob_num:      -1   my_own_rob_num:      -1
+
+Routine Nesting:
+Currently at SSOCK_ACCEPT LN# 169 
+   Called by SSOCK_ACCPT2 LN# 254 
+   Called by ROS_STATE_WILDER LN# 152 
+Main program ROS_STATE_WILDER LN# 0 
+
+PX04:
+ task_name: ROS_RELAY_WILDER   rout_name: SSOCK_ACCEPT   cur_line:           169
+ task_pri:            50   invisible:           No   system task:         No
+ open_id:              9   ept_index:         1832   task_st:        RUNNING
+ THC: 0x0000000000000400   strt_hld_cnd:0x00000000   curln_stat:   LN_NOTEXE
+  hold for> PKTWT 
+ pre_executing:       No   start_pre:    PEX_UNDEF   done_pre:       PEX_CNT
+ pre_open_id:         -1   pre_ept_index:        0   pre_line:             0
+ to_rel_mctl:       0x00   to_unlock:         0x00   hld_grp_msk:       0x00
+ num_out_exe_mmr:      0   num_out_mmr:          0   num_out_amr:          0
+ num_out_nowait_amr:   0   master_rob_num:      -1   my_own_rob_num:      -1
+
+Routine Nesting:
+Currently at SSOCK_ACCEPT LN# 169 
+   Called by SSOCK_ACCPT2 LN# 254 
+   Called by ROS_RELAY_WILDER LN# 136 
+Main program ROS_RELAY_WILDER LN# 0 
+
+PX05:
+ task_name:      ATSHELL   rout_name:      ATSHELL   cur_line:          1069
+ task_pri:            50   invisible:          Yes   system task:        Yes
+ open_id:              4   ept_index:          858   task_st:        RUNNING
+ THC: 0x0000000000000040   strt_hld_cnd:0x00000000   curln_stat:   LN_NOTEXE
+  hold for> UNWAIT 
+ pre_executing:       No   start_pre:    PEX_UNDEF   done_pre:       PEX_CNT
+ pre_open_id:         -1   pre_ept_index:        0   pre_line:             0
+ to_rel_mctl:       0x00   to_unlock:         0x00   hld_grp_msk:       0x00
+ num_out_exe_mmr:      0   num_out_mmr:          0   num_out_amr:          0
+ num_out_nowait_amr:   0   master_rob_num:      -1   my_own_rob_num:      -1
+
+Routine Nesting:
+Currently at      ATSHELL LN# 1069 
+Main program      ATSHELL LN# 0 
+
+PX06:
+ task_name:    ROS_RELAY   rout_name: SSOCK_ACCEPT   cur_line:           169
+ task_pri:            50   invisible:           No   system task:         No
+ open_id:             10   ept_index:         1810   task_st:        RUNNING
+ THC: 0x0000000000000400   strt_hld_cnd:0x00000000   curln_stat:   LN_NOTEXE
+  hold for> PKTWT 
+ pre_executing:       No   start_pre:    PEX_UNDEF   done_pre:       PEX_CNT
+ pre_open_id:         -1   pre_ept_index:        0   pre_line:             0
+ to_rel_mctl:       0x00   to_unlock:         0x00   hld_grp_msk:       0x00
+ num_out_exe_mmr:      0   num_out_mmr:          0   num_out_amr:          0
+ num_out_nowait_amr:   0   master_rob_num:      -1   my_own_rob_num:      -1
+
+Routine Nesting:
+Currently at SSOCK_ACCEPT LN# 169 
+   Called by SSOCK_ACCPT2 LN# 254 
+   Called by    ROS_RELAY LN# 263 
+Main program    ROS_RELAY LN# 0 
+
+PX07:
+ task_name: ROS_MOVESM_WILDER   rout_name: ROS_MOVESM_WILDER   cur_line:            31
+ task_pri:            50   invisible:           No   system task:         No
+ open_id:             11   ept_index:         2151   task_st:        RUNNING
+ THC: 0x0000000000000040   strt_hld_cnd:0x00000000   curln_stat:     LN_EXEC
+  hold for> UNWAIT 
+ pre_executing:       No   start_pre:    PEX_UNDEF   done_pre:      PEX_TERM
+ pre_open_id:         12   pre_ept_index:     2151   pre_line:            34
+ to_rel_mctl:       0x00   to_unlock:         0x00   hld_grp_msk:       0x00
+ num_out_exe_mmr:      0   num_out_mmr:          0   num_out_amr:          0
+ num_out_nowait_amr:   0   master_rob_num:      -1   my_own_rob_num:      -1
+
+Routine Nesting:
+Currently at ROS_MOVESM_WILDER LN# 31 
+Main program ROS_MOVESM_WILDER LN# 0 
+
+PX08:
+ task_name:     ~MOVET2~   rout_name:     ~MOVET2~   cur_line:             2
+ task_pri:            -1   invisible:          Yes   system task:        Yes
+ open_id:              0   ept_index:         1743   task_st:        ABORTED
+ THC: 0x0000000000000000   strt_hld_cnd:0x00000000   curln_stat:     LN_EXEC
+ pre_executing:       No   start_pre:    PEX_UNDEF   done_pre:       PEX_CNT
+ pre_open_id:         -1   pre_ept_index:        0   pre_line:             0
+ to_rel_mctl:       0x00   to_unlock:         0x00   hld_grp_msk:       0x00
+ num_out_exe_mmr:      0   num_out_mmr:          0   num_out_amr:          0
+ num_out_nowait_amr:   0   master_rob_num:       0   my_own_rob_num:       0
+
+Routine Nesting:
+Currently at     ~MOVET2~ LN# 2 
+Main program     ~MOVET2~ LN# 0 
+
+PX09:
+ task_name:     ATPRSCRN   rout_name:       PBCORE   cur_line:             0
+ task_pri:            -1   invisible:           No   system task:         No
+ open_id:              0   ept_index:            0   task_st:        ABORTED
+ THC: 0x0000000000000000   strt_hld_cnd:0x00000000   curln_stat:   LN_NOTEXE
+ pre_executing:       No   start_pre:    PEX_UNDEF   done_pre:       PEX_CNT
+ pre_open_id:         -1   pre_ept_index:        0   pre_line:             0
+ to_rel_mctl:       0x00   to_unlock:         0x00   hld_grp_msk:       0x00
+ num_out_exe_mmr:      0   num_out_mmr:          0   num_out_amr:          0
+ num_out_nowait_amr:   0   master_rob_num:       0   my_own_rob_num:       0
+
+Routine Nesting:
+Main program     ATPRSCRN LN# 0 
+
+tsk_hld_cnd (Task hold conditions, TSK_HLD_CND_T)
+  This is bit data. Each bit indicates why the execution of the task is 
+  held. More than one bit can be set at same time. While the task is executing
+  normally, all bits are OFF. 
+
+      PG_CHG_EXE_C   0x00000001  KAREL calls Mnemonic or vice versa
+      PG_INR_PAUS_C  0x00000002  Internal pause error occurs
+      PG_INR_ABRT_C  0x00000004  Internal abort error occurs
+      PG_FAIL_LK_C   0x00000008  Failed to lock the deflt mtn grp
+      PG_MO_STRT_C   0x00000010  Wait for motion started
+      PG_MO_DONE_C   0x00000020  Wait for motion done
+      PG_UNWAIT_C    0x00000040  Wait for UNWAIT action
+      PG_IO_PKT_C    0x00000080  Serial I/O request is processing
+      PG_CLT_DONE_C  0x00000100  ENDCONCURRENT is processing
+      PG_CAN_DONE_C  0x00000200  Stop/Cancel req is processing
+      PG_PKTWT_C     0x00000400  Softparts waits for any packet
+      PG_RLSDON_C    0x00000800  waits for release done message
+      PG_ATCDON_C    0x00001000  waits for attach done message
+      PG_AMR_STRT_C  0x00002000  Wait for AMR started
+      PG_AMR_DONE_C  0x00004000  Wait for AMR done
+      PG_AMR_PKT_C   0x00008000  Wait for AMR packet
+      PG_UAMR_PKT_C  0x00010000  Wait for User AMR packet
+

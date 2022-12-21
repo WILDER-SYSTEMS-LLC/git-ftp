@@ -1,0 +1,78 @@
+[MERGE3D2]TMP_POS  Storage: CMOS  Access: RW  : ARRAY[4] OF POSITION
+  [1] = 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2439.305   Y:   379.841   Z:  -926.618
+  W:    -1.507   P:     1.934   R:     -.576
+  [2] = 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  1506.042   Y: -2281.546   Z:  -921.184
+  W:    -6.855   P:    -1.952   R:    64.735
+  [3] = 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2524.364   Y:   427.191   Z:  -929.527
+  W:     -.856   P:     1.876   R:     -.600
+  [4] = 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2439.305   Y:   379.841   Z:  -926.618
+  W:    -2.454   P:     -.110   R:  -109.324
+
+[MERGE3D2]TMP_XYZEX  Storage: CMOS  Access: RW  : XYZWPREXT = 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2439.305   Y:   379.841   Z:  -926.618
+  W:    -2.454   P:     -.110   R:  -109.324
+  EXT1:     0.000 mm  
+
+[MERGE3D2]I  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[MERGE3D2]STATUS  Storage: CMOS  Access: RW  : INTEGER = 17042
+
+[MERGE3D2]EXT_FLAG  Storage: CMOS  Access: RW  : BOOLEAN = TRUE
+
+[MERGE3D2]CHECK_TYPE  Storage: CMOS  Access: RW  : INTEGER = 29
+
+[MERGE3D2]SHIFT  Storage: CMOS  Access: RW  : VECTOR = Uninitialized
+
+[MERGE3D2]NV  Storage: CMOS  Access: RW  : VECTOR = Uninitialized
+
+[MERGE3D2]OV  Storage: CMOS  Access: RW  : VECTOR = Uninitialized
+
+[MERGE3D2]AV  Storage: CMOS  Access: RW  : VECTOR = Uninitialized
+
+[MERGE3D2]P1_P2  Storage: CMOS  Access: RW  : VECTOR = Uninitialized
+
+[MERGE3D2]V1V2  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[MERGE3D2]K  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[MERGE3D2]NORM  Storage: CMOS  Access: RW  : REAL = Uninitialized
+
+[MERGE3D2]HEIGHT_2D  Storage: CMOS  Access: RW  : REAL = 0.000000e+00
+
+[MERGE3D2]HEIGHT_V  Storage: CMOS  Access: RW  : VECTOR = Uninitialized
+
+[MERGE3D2]DATA_TYPE  Storage: CMOS  Access: RW  : ARRAY[7] OF INTEGER
+  [1] = 1
+  [2] = 1
+  [3] = 1
+  [4] = 1
+  [5] = 1
+  [6] = 0
+  [7] = 0
+
+[MERGE3D2]INT_PARAM  Storage: CMOS  Access: RW  : ARRAY[7] OF INTEGER
+  [1] = 67
+  [2] = 68
+  [3] = 69
+  [4] = 0
+  [5] = 70
+  [6] = 0
+  [7] = 0
+
+[MERGE3D2]REAL_PARAM  Storage: CMOS  Access: RW  : REAL = 0.000000e+00
+
+[MERGE3D2]STR_PARAM  Storage: CMOS  Access: RW  : STRING[20] = ''
+
+[MERGE3D2]RET_STATUS  Storage: CMOS  Access: RW  : INTEGER = 0
+
+[MERGE3D2]ERR_MSG  Storage: CMOS  Access: RW  : STRING[40] = Uninitialized
+

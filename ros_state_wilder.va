@@ -1,0 +1,63 @@
+[ROS_STATE_WILDER]CFG_  Storage: SHADOW  Access: RW  : RSTATE_CFG_T = 
+   Field: CFG_.CHECKED Access: RW: BOOLEAN = TRUE
+   Field: CFG_.LOOP_HZ Access: RW: INTEGER = 120
+   Field: CFG_.SLOOP_DIV Access: RW: INTEGER = 10
+   Field: CFG_.S_TCP_NR Access: RW: INTEGER = 11006
+   Field: CFG_.S_TAG_NR Access: RW: INTEGER = 6
+   Field: CFG_.UF_PR_NR Access: RW: INTEGER = 115
+   Field: CFG_.UM_CLEAR Access: RW: BOOLEAN = TRUE
+
+[ROS_STATE_WILDER]CUR_J_POS_  Storage: DRAM  Access: RW  : JOINTPOS9 = Uninitialized
+
+[ROS_STATE_WILDER]FINAL_OUT_STR_  Storage: DRAM  Access: RW  : STRING[64] = Uninitialized
+
+[ROS_STATE_WILDER]FLAG_INT_  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[ROS_STATE_WILDER]FLAG_INT_COUNT_  Storage: DRAM  Access: RW  : INTEGER = Uninitialized
+
+[ROS_STATE_WILDER]FLAG_STR_  Storage: DRAM  Access: RW  : STRING[32] = 'F 0 0 0 0 0 0 0 0 0 0'
+
+[ROS_STATE_WILDER]FLAG_STR_TEMP_  Storage: DRAM  Access: RW  : STRING[32] = ' 0'
+
+[ROS_STATE_WILDER]JOINT_DATA_  Storage: DRAM  Access: RW  : ARRAY[10] OF REAL
+  [1] = Uninitialized
+  [2] = Uninitialized
+  [3] = Uninitialized
+  [4] = Uninitialized
+  [5] = Uninitialized
+  [6] = Uninitialized
+  [7] = Uninitialized
+  [8] = Uninitialized
+  [9] = Uninitialized
+  [10] = Uninitialized
+
+[ROS_STATE_WILDER]POS_STR_  Storage: DRAM  Access: RW  : STRING[32] = 'R             -94.629'
+
+[ROS_STATE_WILDER]REG_INT_  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[ROS_STATE_WILDER]REG_REAL_  Storage: DRAM  Access: RW  : REAL = 0.000000e+00
+
+[ROS_STATE_WILDER]REG_REAL_FLAG_  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[ROS_STATE_WILDER]REG_STR_  Storage: DRAM  Access: RW  : STRING[32] = 'D                   0'
+
+[ROS_STATE_WILDER]REG_STR_TEMP_  Storage: DRAM  Access: RW  : STRING[32] = '                   0'
+
+[ROS_STATE_WILDER]SHUTDWN_REQ_  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[ROS_STATE_WILDER]SLEEP_TIME_  Storage: DRAM  Access: RW  : INTEGER = 8
+
+[ROS_STATE_WILDER]SOCK_  Storage: DRAM  Access: RW  : SSOCK_T = 
+   Field: SOCK_.CONNECTED_ Access: RW: BOOLEAN = FALSE
+   Field: SOCK_.STATUS_ Access: RW: INTEGER = 0
+   Field: SOCK_.PORT_ Access: RW: INTEGER = 11006
+   Field: SOCK_.TAG_IDX_ Access: RW: INTEGER = 6
+   Field: SOCK_.TAG_STR_ Access: RW: STRING[3] = 'S6:'
+   Field: SOCK_.HCFG_STR_ Access: RW: STRING[30] = '$HOSTS_CFG[6]'
+
+[ROS_STATE_WILDER]STAT_  Storage: DRAM  Access: RW  : INTEGER = -67208
+
+[ROS_STATE_WILDER]STAT_COUNT_  Storage: DRAM  Access: RW  : INTEGER = 0
+
+[ROS_STATE_WILDER]WRITE_COUNT_  Storage: DRAM  Access: RW  : INTEGER = 8
+

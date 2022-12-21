@@ -1,0 +1,62 @@
+F Number: F268925
+VERSION : HandlingTool         
+$VERSION: V9.30146      5/27/2021
+DATE:     22-DEC-22 00:27 
+Columns: Date, (U)pload/(D)ownload, File, Status, IPaddress
+
+DEC 22 2022 00:27:50 U COMSET.VR    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U CONFIG_CHANG 226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U CONFIG_CHANG 226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U CONSLOG.DG   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U CONSTAIL.DG  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U COUPONDRILL. 226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U COUPONDRILL. 226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U CTMENU.DG    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U CTQMENU.DG   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U CURPOS.DG    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U D_M1400.CAM  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:50 U D_M640.CAM   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DATAMAP.LS   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DATAMAP.TP   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DCSCHG01.DG  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DCSCHG02.DG  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DCSCHG03.DG  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DCSDIFF.DG   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DCSIOC.SV    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DCSIOC.VA    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DCSPOS.SV    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DCSPOS.VA    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DCSVRFY.DG   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DF_LOGI1.DF  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DF_LOGI2.DF  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DF_LOGI3.DF  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DF_LOGI4.DF  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DF_LOGI5.DF  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DF_LOGI6.DF  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DF_MOTN0.DF  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:52 U DIOCFGSV.IO  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U DIOCFGSV.VA  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U DRILL_20_3.L 226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U DRILL_20_3.T 226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U DRILL_TO_VIS 226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U DRILL_TO_VIS 226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U EMAIL.DG     226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERRACT.LS    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERRALL.LS    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERRAPP.LS    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERRCOMM.LS   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERRCURR.LS   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERREXT.LS    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERRHIST.LS   226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERRMOT.LS    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERRPWD.LS    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ERRSYS.LS    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ESTP_ADJ.VA  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ESTP_ADJ.VR  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U ETHERNET.DG  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U EXT1.DT      226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U EXT1A1.DT    226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:54 U FLEXEVENT.DG 226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:56 U FLEXUIF.XML  226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:56 U FRAME.DG     226 Binary Transfer complete. 192.168.10.25                                                
+DEC 22 2022 00:27:56 U FRAMEVAR.VR  226 Binary Transfer complete. 192.168.10.25                                                

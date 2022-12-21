@@ -1,0 +1,132 @@
+F Number: F268925
+VERSION : HandlingTool         
+$VERSION: V9.30146      5/27/2021
+DATE:     22-DEC-22 00:28 
+
+MEMORY USAGE::
+
+MEMORY DETAIL (MAIN):
+Pools        TOTAL     AVAILABLE      LARGEST
+TPP          700.0KB     491.3KB     491.0KB
+PERM        1978.0KB     558.5KB     557.7KB
+SYSTEM     12934.5KB       2.5KB       2.5KB
+SHADOW      6698.3KB    5418.8KB      32.0KB
+PAGE      724990.8KB  584485.9KB  584485.9KB
+TEMP      270337.4KB  249709.4KB  224487.7KB
+FROM      127732.0KB   57532.0KB
+
+HARDWARE
+FROM     128MB
+DRAM    1024MB
+SRAM       2MB
+
+MEMORY DETAIL (MAIN - TASKS):
+TASK        TOTAL     AVAILABLE     LARGEST   REALLOC
+   1       62.8KB        42.6KB      40.7KB      0
+   2       62.8KB        40.2KB      40.0KB      0
+   3       62.8KB        40.2KB      40.0KB      0
+   4       62.8KB        40.2KB      40.0KB      0
+   5       62.8KB        33.0KB      33.0KB      0
+   6       62.8KB        40.2KB      40.0KB      0
+   7       62.8KB        41.2KB      41.2KB      0
+   8       62.8KB        48.3KB      48.3KB      0
+   9       62.8KB        48.3KB      48.3KB      0
+  34       62.8KB        62.8KB      62.8KB      0
+  35     2398.8KB      1458.4KB    1376.3KB      0
+  36     1518.8KB      1029.8KB    1029.1KB      0
+  37       62.8KB        62.1KB      62.1KB      0
+  38     1998.8KB       495.0KB     495.0KB      0
+  39     1074.6KB       939.7KB      84.9KB     11
+  40       62.8KB        62.1KB      62.1KB      0
+  41      134.8KB        49.6KB      43.8KB      1
+  42      126.8KB        59.9KB      59.8KB      0
+  43       62.8KB        62.8KB      62.8KB      0
+  47      198.8KB       198.1KB     198.1KB      0
+  51       62.8KB        61.2KB      61.2KB      0
+  52     7998.8KB      7823.3KB    7822.1KB      0
+  54       62.8KB        49.9KB      49.9KB      0
+  55       62.8KB        60.2KB      60.1KB      0
+  63       62.8KB        57.8KB      57.8KB      0
+  71      126.8KB       125.9KB      95.4KB      0
+  72      254.8KB       237.5KB     221.6KB      0
+  73       62.8KB        62.1KB      62.1KB      0
+  74       62.8KB        61.7KB      61.7KB      0
+  76      126.8KB        66.7KB      66.5KB      0
+  77       62.8KB        51.0KB      51.0KB      0
+  78      254.8KB       254.1KB     254.1KB      0
+  99       62.8KB        62.1KB      62.1KB      0
+ 100       62.8KB        60.5KB      60.5KB      0
+ 101       62.8KB        56.0KB      56.0KB      0
+ 102      158.8KB       158.1KB     158.1KB      0
+ 103       94.8KB        94.1KB      94.1KB      0
+ 104       94.8KB        94.1KB      94.1KB      0
+ 105       94.8KB        94.1KB      94.1KB      0
+ 106       94.8KB        94.1KB      94.1KB      0
+ 107       94.8KB        94.1KB      94.1KB      0
+ 108       94.8KB        20.0KB      20.0KB      0
+ 109      958.8KB       846.7KB     468.0KB      0
+ 111     9862.8KB        66.1KB      66.1KB      0
+ 112    40846.8KB       260.6KB     248.5KB      0
+ 113       62.8KB        62.1KB      62.1KB      0
+ 114       62.8KB        62.1KB      62.1KB      0
+ 115       62.8KB        62.0KB      62.0KB      0
+ 119      382.8KB        58.9KB      58.9KB      0
+ 125       62.8KB        62.1KB      62.1KB      0
+ 136       62.8KB        46.3KB      46.3KB      0
+ 150      446.8KB       433.6KB     433.6KB      0
+ 153       62.8KB        61.2KB      61.2KB      0
+ 159     4094.8KB      2307.2KB    2307.2KB      0
+ 170      446.7KB       445.9KB      64.0KB      6
+ 171       62.8KB        52.4KB      52.4KB      0
+ 182       62.8KB        38.2KB      38.1KB      0
+ 186      126.8KB       116.2KB     116.2KB      0
+ 188       62.8KB        62.4KB      62.4KB      0
+ 189       62.8KB        62.4KB      62.4KB      0
+ 190       62.8KB        62.4KB      62.4KB      0
+ 191       62.8KB        62.4KB      62.4KB      0
+ 193       62.8KB        60.6KB      60.6KB      0
+ 196      210.8KB        46.9KB      19.1KB      2
+ 198       62.8KB        62.0KB      62.0KB      0
+ 199       62.8KB        62.4KB      62.4KB      0
+ 207       62.8KB        62.1KB      62.1KB      0
+ 209      126.8KB       124.0KB      63.4KB      1
+ 210       62.8KB        61.6KB      61.6KB      0
+ 211       62.8KB        53.7KB      53.7KB      0
+ 214       62.8KB        62.1KB      62.1KB      0
+ 217       62.8KB        12.3KB      12.3KB      0
+ 224       62.8KB        36.0KB      36.0KB      0
+ 225       62.8KB        62.0KB      62.0KB      0
+ 231       62.8KB        35.9KB      35.8KB      0
+ 232       62.8KB        62.1KB      62.1KB      0
+ 239       62.8KB        62.1KB      62.1KB      0
+ 240       62.8KB        53.1KB      53.1KB      0
+ 241     1534.8KB        61.2KB      61.2KB      0
+ 256       62.8KB        62.8KB      62.8KB      0
+ 257       62.8KB        62.8KB      62.8KB      0
+ 258       62.8KB        62.8KB      62.8KB      0
+ 259       62.8KB        62.8KB      62.8KB      0
+ 260       62.8KB        62.8KB      62.8KB      0
+ 261       62.8KB        62.8KB      62.8KB      0
+ 262       62.8KB        62.8KB      62.8KB      0
+ 263       62.8KB        62.8KB      62.8KB      0
+ 264       62.8KB        62.8KB      62.8KB      0
+ 265       62.8KB        62.8KB      62.8KB      0
+ 297      338.8KB       260.2KB     260.2KB      0
+ 299       62.8KB        62.1KB      62.1KB      0
+ 300       62.8KB        43.4KB      33.6KB      0
+ 317       62.8KB        62.1KB      62.1KB      0
+ 322     9618.8KB      9597.0KB    9491.8KB      0
+ 323       62.8KB        62.1KB      62.1KB      0
+ 332       62.8KB        59.8KB      59.8KB      0
+ 336       62.8KB        62.1KB      62.1KB      0
+ 341       62.8KB        62.1KB      62.1KB      0
+
+MEMORY DETAIL (COMM):
+Pools        TOTAL     AVAILABLE      LARGEST
+TPP            0.0KB       0.0KB       0.0KB
+PERM          48.0KB      47.7KB      47.7KB
+SYSTEM      5632.0KB    4931.9KB    4931.9KB
+SHADOW      6698.3KB    5418.8KB      32.0KB
+TEMP        8735.9KB    5996.0KB    5859.8KB
+TEACH PENDANT:
+Total - 303920.0KB   Current -201740.0KB    Minimum - 196664.0KB

@@ -1,0 +1,66 @@
+                       TP Accounting
+
+F Number: F268925
+VERSION : HandlingTool         
+$VERSION: V9.30146      5/27/2021
+DATE:     22-DEC-22 00:28 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                       01:38            1           8
+Home                              10:02            3           7
+Cell Intface                      03:12           15          73
+File                              04:10            2         460
+SELECT                         11:52:02          337        5787
+Prog Select                 04 20:15:02           17        1520
+Host Comm                      16:48:04           45        1323
+KAREL Vars                        22:26           28         565
+4D Display                           04            1           1
+EDIT                        02 08:52:08          134       16798
+UOP                               04:36           13         342
+Program                              08            2           0
+Position Reg             02-27 07:58:40           58        2832
+Id:  381, 3                       11:54           10          12
+ZDT Client                           04            1           1
+DCS                                  18            2          40
+Config                            04:52            5         167
+BG Logic                          01:10            2          32
+USER                        01 06:50:48           61         288
+Digital                           34:28           12         624
+Analog                               02            1          10
+Group                                06            1          14
+Robot                                10            3          10
+Variables                            22            2          34
+Error Table                          14            1           0
+System Log                           04            1           4
+Id:  1617, 1                         00           23           0
+Condition                            12            1           0
+Motion                            01:16            1           1
+Link Device                          02            1           1
+Stop Signal                          24            1          61
+Resume Tol.                          00            1           0
+Port Init                            02            1           1
+Registers                         03:20           19         177
+Memory                               02            1           0
+Clock                                00            1           0
+Vision Devices                       02            1           1
+Notifications                     03:40            5          67
+Flag                              03:30            5         246
+Hints                                22            6           4
+Id:  381, 5                       04:22            2           1
+Position Display               01:00:06           15         259
+Frames                      01 15:37:08           64        5285
+Vision Reg                           04            1          14
+String Reg                           06            1          24
+
+Full Menus:              03-08 19:11:22 
+Quick Menus:                         00 
+
+MENU Popup:                                      328
+[ TYPE ] Pullup:                                  41
+
+Functions at COLD start
+ABORT (ALL)                                      431
+
+Functions at CTRL start
+START (COLD)                                       1

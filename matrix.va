@@ -1,0 +1,57 @@
+[MATRIX]REG_NUM  Storage: CMOS  Access: RW  : ARRAY[4] OF INTEGER
+  [1] = 70
+  [2] = 66
+  [3] = 71
+  [4] = 0
+
+[MATRIX]LEFT_REG  Storage: CMOS  Access: RW  : POSITION = 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2953.242   Y: -6356.302   Z:  -611.932
+  W:    -2.327   P:     3.814   R:    18.107
+
+[MATRIX]P1_XYZEX  Storage: CMOS  Access: RW  : XYZWPREXT = 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2439.305   Y:   379.841   Z:  -926.618
+  W:    -2.454   P:     -.110   R:  -109.324
+  EXT1:     0.000 mm  
+
+[MATRIX]P2_XYZEX  Storage: CMOS  Access: RW  : XYZWPREXT = 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  6187.166   Y:  2698.601   Z:   418.690
+  W:    -3.731   P:     1.798   R:   127.365
+  EXT1:     0.000 mm  
+
+[MATRIX]STATUS  Storage: CMOS  Access: RW  : INTEGER = 0
+
+[MATRIX]I  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[MATRIX]GROUP_NUM  Storage: CMOS  Access: RW  : INTEGER = 1
+
+[MATRIX]POS  Storage: CMOS  Access: RW  : POSITION = Uninitialized
+
+[MATRIX]POS_XYZEX  Storage: CMOS  Access: RW  : XYZWPREXT = 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2953.242   Y: -6356.302   Z:  -611.932
+  W:    -2.327   P:     3.814   R:    18.107
+  EXT1:     0.000 mm  
+
+[MATRIX]POS_XYZ  Storage: CMOS  Access: RW  : XYZWPR = Uninitialized
+
+[MATRIX]POS_TYPE  Storage: CMOS  Access: RW  : INTEGER = 6
+
+[MATRIX]NUM_AXES  Storage: CMOS  Access: RW  : INTEGER = Uninitialized
+
+[MATRIX]DATA_TYPE  Storage: CMOS  Access: RW  : ARRAY[4] OF INTEGER
+  [1] = 1
+  [2] = 1
+  [3] = 1
+  [4] = 0
+
+[MATRIX]REAL_PARAM  Storage: CMOS  Access: RW  : REAL = 0.000000e+00
+
+[MATRIX]STR_PARAM  Storage: CMOS  Access: RW  : STRING[100] = ''
+
+[MATRIX]RET_STATUS  Storage: CMOS  Access: RW  : INTEGER = 0
+
+[MATRIX]ERR_MSG  Storage: CMOS  Access: RW  : STRING[40] = Uninitialized
+

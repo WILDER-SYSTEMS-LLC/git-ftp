@@ -1,0 +1,48 @@
+Security Log for F268925 at 22-DEC-22 00:28:24 
+
+13-SEP-22 05:13 SEC -001 Security Config Mismatch
+13-SEP-22 05:18 SEC -001 Security Config Mismatch
+13-SEP-22 06:17 SEC -001 Security Config Mismatch
+13-SEP-22 06:24 SEC -001 Security Config Mismatch
+13-SEP-22 07:32 SEC -001 Security Config Mismatch
+13-SEP-22 07:59 SEC -001 Security Config Mismatch
+13-SEP-22 21:46 SEC -001 Security Config Mismatch
+13-SEP-22 23:37 SEC -001 Security Config Mismatch
+14-SEP-22 00:03 SEC -001 Security Config Mismatch
+14-SEP-22 00:08 SEC -001 Security Config Mismatch
+14-SEP-22 00:13 SEC -001 Security Config Mismatch
+14-SEP-22 00:24 SEC -001 Security Config Mismatch
+14-SEP-22 03:24 SEC -001 Security Config Mismatch
+14-SEP-22 22:01 SEC -001 Security Config Mismatch
+15-SEP-22 21:56 SEC -001 Security Config Mismatch
+15-SEP-22 23:18 SEC -001 Security Config Mismatch
+15-SEP-22 23:43 SEC -001 Security Config Mismatch
+16-SEP-22 02:19 SEC -001 Security Config Mismatch
+16-SEP-22 02:31 SEC -001 Security Config Mismatch
+16-SEP-22 06:49 SEC -001 Security Config Mismatch
+16-SEP-22 07:16 SEC -001 Security Config Mismatch
+16-SEP-22 08:29 SEC -001 Security Config Mismatch
+21-SEP-22 04:03 SEC -001 Security Config Mismatch
+21-SEP-22 04:07 SEC -001 Security Config Mismatch
+21-SEP-22 21:46 SEC -001 Security Config Mismatch
+22-SEP-22 01:57 SEC -001 Security Config Mismatch
+22-SEP-22 22:06 SEC -001 Security Config Mismatch
+23-SEP-22 04:19 SEC -001 Security Config Mismatch
+23-SEP-22 22:34 SEC -001 Security Config Mismatch
+20-DEC-22 00:52 SEC -001 Security Config Mismatch
+20-DEC-22 01:09 SEC -001 Security Config Mismatch
+20-DEC-22 02:04 SEC -001 Security Config Mismatch
+20-DEC-22 02:13 SEC -001 Security Config Mismatch
+20-DEC-22 02:26 SEC -001 Security Config Mismatch
+20-DEC-22 06:42 SEC -001 Security Config Mismatch
+21-DEC-22 00:12 SEC -001 Security Config Mismatch
+21-DEC-22 04:48 SEC -001 Security Config Mismatch
+21-DEC-22 08:14 SEC -001 Security Config Mismatch
+22-DEC-22 00:17 SEC -001 Security Config Mismatch
+
+
+MAIN Security Log Filter:
+22-DEC-22 00:17:10  Task: SYIN logged error: SEC -001 occurred 1 times in 2147483.750000 seconds from 0.0.0.0
+
+
+COMM Security Log Filter is empty.

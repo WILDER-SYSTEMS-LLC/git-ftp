@@ -1,0 +1,13 @@
+[LIBIND_RS]$IND_RS_T  Storage: DRAM  Access: RW  : IND_RS_T = 
+     Field: $IND_RS_T.HEADER_.LENGTH_ Access: RW: INTEGER = Uninitialized
+     Field: $IND_RS_T.HEADER_.MSG_TYPE_ Access: RW: INTEGER = Uninitialized
+     Field: $IND_RS_T.HEADER_.COMM_TYPE_ Access: RW: INTEGER = Uninitialized
+     Field: $IND_RS_T.HEADER_.REPLY_TYPE_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_RS_T.DRV_PWD_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_RS_T.E_STOPPED_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_RS_T.ERROR_CODE_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_RS_T.IN_ERROR_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_RS_T.IN_MOTION_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_RS_T.MODE_ Access: RW: INTEGER = Uninitialized
+   Field: $IND_RS_T.MTN_PSBLE_ Access: RW: INTEGER = Uninitialized
+

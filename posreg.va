@@ -1,0 +1,572 @@
+[*POSREG*]$POSREG  Storage: SHADOW  Access: RW  : ARRAY[1,200] OF Position Reg
+    [1,1] =   '' Uninitialized
+    [1,2] =   'NORM CURRT POS' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -2021.916   Y: -2668.416   Z:  -243.948
+  W:    -6.698   P:      .243   R:   -91.364
+  EXT1: -1444.073 mm  
+    [1,3] =   'NORM TOOL OFFST' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,4] =   'VIS CURRT POS' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2673.680   Y: -1344.800   Z:  -901.742
+  W:    -1.250   P:     3.505   R:     -.993
+  EXT1: -1300.000 mm  
+    [1,5] =   'VIS TOOL OFFSET' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,6] =   'CLAMP CURRT POS' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -2246.630   Y:  3012.193   Z:  -635.596
+  W:    -1.445   P:    -4.452   R:    86.330
+  EXT1:     -.001 mm  
+    [1,7] =   'CLAMP TOOL OFFS-' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:    50.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,8] =   'CLAMP TOOL OFFS+' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:   -50.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,9] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -3212.935   Y: -1442.990   Z:  1540.486
+  W:     3.493   P:      .547   R:   -91.558
+  EXT1: -1444.073 mm  
+    [1,10] =   '' 
+  Group: 1   Config: N U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,11] =   'NORM HEIGHT' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,12] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2673.630   Y: -1344.845   Z:  -903.752
+  W:    -1.250   P:     3.501   R:     -.993
+  EXT1: -1300.000 mm  
+    [1,13] =   '' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:    50.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,14] =   '' Uninitialized
+    [1,15] =   '' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,16] =   '' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:    45.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,17] =   '' 
+  Group: 1   Config: N U T, 0, 0, 0
+  X:    20.000   Y:    25.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1: -1114.400 mm  
+    [1,18] =   'zero joints'   Group: 1
+  J1 =     0.000 deg   J2 =     0.000 deg   J3 =     0.000 deg 
+  J4 =     0.000 deg   J5 =     0.000 deg   J6 =     0.000 deg 
+  EXT1:     0.000 mm  
+
+    [1,19] =   '' Uninitialized
+    [1,20] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2005.100   Y:  6535.583   Z:    53.563
+  W:    -1.371   P:     3.200   R:     -.419
+  EXT1: -1300.000 mm  
+    [1,21] =   '' Uninitialized
+    [1,22] =   '' Uninitialized
+    [1,23] =   'NORM HEIGHT CURR' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -2021.916   Y: -2668.417   Z:  -243.948
+  W:    -7.008   P:      .273   R:   -91.367
+  EXT1: -1444.073 mm  
+    [1,24] =   'RAPID CLAMP' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:   -45.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,25] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   120.000   Y:    50.000   Z:    50.000
+  W:      .000   P:      .000   R:     -.000
+  EXT1: -1290.460 mm  
+    [1,26] =   'RIVET LOCATION' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,27] =   '' Uninitialized
+    [1,28] =   'TRANSPORT POS'   Group: 1
+  J1 =   -89.343 deg   J2 =   -59.999 deg   J3 =   -12.006 deg 
+  J4 =      .293 deg   J5 =   -80.892 deg   J6 =    88.641 deg 
+  EXT1: -1288.200 mm  
+
+    [1,29] =   'LASER CURRENT' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     -.025   Y:      .052   Z:     -.015
+  W:     -.000   P:      .000   R:   -90.003
+  EXT1:  -456.002 mm  
+    [1,30] =   'MID WAKE'   Group: 1
+  J1 =   -89.695 deg   J2 =   -35.642 deg   J3 =   -12.003 deg 
+  J4 =      .293 deg   J5 =     9.684 deg   J6 =    88.641 deg 
+  EXT1: -1288.200 mm  
+
+    [1,31] =   'RAIL ZERO POS'   Group: 1
+  J1 =   -89.845 deg   J2 =   -35.642 deg   J3 =   -12.003 deg 
+  J4 =      .293 deg   J5 =     9.684 deg   J6 =    88.641 deg 
+  EXT1:    90.500 mm  
+
+    [1,32] =   '' Uninitialized
+    [1,33] =   '' Uninitialized
+    [1,34] =   '' Uninitialized
+    [1,35] =   '' Uninitialized
+    [1,36] =   '' Uninitialized
+    [1,37] =   '' Uninitialized
+    [1,38] =   '' Uninitialized
+    [1,39] =   '' Uninitialized
+    [1,40] =   '' Uninitialized
+    [1,41] =   '' Uninitialized
+    [1,42] =   '' Uninitialized
+    [1,43] =   '' Uninitialized
+    [1,44] =   '' Uninitialized
+    [1,45] =   '' Uninitialized
+    [1,46] =   '' Uninitialized
+    [1,47] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,48] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2015.983   Y:  6527.354   Z:    53.147
+  W:    -1.371   P:     3.200   R:     -.419
+  EXT1: -1300.000 mm  
+    [1,49] =   '' Uninitialized
+    [1,50] =   '' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,51] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,52] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  1933.880   Y:  6530.391   Z:    45.400
+  W:    -1.220   P:     1.970   R:     -.400
+  EXT1: -1300.000 mm  
+    [1,53] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:    26.500
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,54] =   '' Uninitialized
+    [1,55] =   '' Uninitialized
+    [1,56] =   '' Uninitialized
+    [1,57] =   '' Uninitialized
+    [1,58] =   '' Uninitialized
+    [1,59] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     4.768   Y:    -2.079   Z:    59.958
+  W:      .000   P:      .001   R:     -.000
+  EXT1: -1114.400 mm  
+    [1,60] =   '' Uninitialized
+    [1,61] =   '' Uninitialized
+    [1,62] =   'p1CAD' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   782.830   Y:  4697.090   Z:    45.440
+  W:     3.220   P:    -4.480   R:   -40.560
+  EXT1: -2800.000 mm  
+    [1,63] =   'p2CAD' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,64] =   'p3CAD' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2146.500   Y:  5573.970   Z:    11.200
+  W:    -1.290   P:     1.940   R:     -.050
+  EXT1: -2857.000 mm  
+    [1,65] =   'UFoCAD' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  1622.410   Y:  6565.290   Z:    59.360
+  W:     -.839   P:     4.055   R:  -127.453
+  EXT1:     0.000 mm  
+    [1,66] =   'invUFoCAD' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     3.867   Y:    -1.089   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:  ******** mm  
+    [1,67] =   'p1REAL' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -2521.581   Y: -2482.719   Z:  -283.462
+  W:     -.478   P:    -3.924   R:  -178.972
+  EXT1:     -.001 mm  
+    [1,68] =   'p2REAL' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  1506.042   Y: -2281.546   Z:  -921.184
+  W:    -6.855   P:    -1.952   R:    64.735
+  EXT1: -2857.000 mm  
+    [1,69] =   'p3REAL' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2524.364   Y:   427.191   Z:  -929.527
+  W:     -.856   P:     1.876   R:     -.600
+  EXT1:  -900.000 mm  
+    [1,70] =   'ufREAL'   Group: 1
+  J1 =  -124.130 deg   J2 =    18.829 deg   J3 =   -46.052 deg 
+  J4 =    46.141 deg   J5 =    58.070 deg   J6 =    59.474 deg 
+  EXT1:  -901.642 mm  
+
+    [1,71] =   'newFRAME' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  2953.242   Y: -6356.302   Z:  -611.932
+  W:    -2.327   P:     3.814   R:    18.107
+  EXT1:     0.000 mm  
+    [1,72] =   'SURF-drill offst' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:    26.500
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,73] =   'DRILL CALIB'   Group: 1
+  J1 =  -124.130 deg   J2 =    18.829 deg   J3 =   -46.052 deg 
+  J4 =    46.141 deg   J5 =    58.070 deg   J6 =    59.474 deg 
+  EXT1:  -901.642 mm  
+
+    [1,74] =   'Drill-Surf Offst' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:   -26.500
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,75] =   'ZERO CART POSE' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,76] =   'CURRENT POS' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     -.000   P:      .000   R:     -.000
+  EXT1:  -901.642 mm  
+    [1,77] =   '' Uninitialized
+    [1,78] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   717.671   Y: -3667.800   Z:  -839.709
+  W:     -.178   P:    -1.512   R:     1.255
+  EXT1: -1500.000 mm  
+    [1,79] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   383.801   Y:   936.363   Z:    35.447
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1: -1050.000 mm  
+    [1,80] =   'ARUCO CTO 1' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:    50.800   Y:   304.800   Z:     0.000
+  W:     0.000   P:     0.000   R:   -90.000
+  EXT1: -1500.000 mm  
+    [1,81] =   'ARUCO CTX 1' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   101.600   Y:   609.600   Z:     0.000
+  W:     0.000   P:     0.000   R:   -90.000
+  EXT1: -1500.000 mm  
+    [1,82] =   'ARUCO CTY 1' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:    50.800   Y:   914.400   Z:     0.000
+  W:     0.000   P:     0.000   R:   -90.000
+  EXT1: -1500.000 mm  
+    [1,83] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   688.295   Y:   882.406   Z:    43.413
+  W:      .000   P:      .000   R:     -.000
+  EXT1: -1050.002 mm  
+    [1,84] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  -309.004   Y:      .000   Z:     0.000
+  W:     0.000   P:     0.000   R:   -80.538
+  EXT1:     0.000 mm  
+    [1,85] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   761.790   Y: -3362.020   Z:  -839.317
+  W:      .986   P:     -.339   R:   -90.000
+  EXT1: -1500.000 mm  
+    [1,86] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   805.832   Y: -3056.709   Z:  -838.925
+  W:      .529   P:      .760   R:   -90.003
+  EXT1: -1500.000 mm  
+    [1,87] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   798.654   Y: -3066.332   Z:  -837.947
+  W:    -1.297   P:    -1.897   R:   -88.795
+  EXT1: -1500.000 mm  
+    [1,88] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   761.790   Y: -3362.020   Z:  -839.317
+  W:    -1.521   P:     -.072   R:    81.791
+  EXT1:     0.000 mm  
+    [1,89] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   717.671   Y: -3667.859   Z:  -839.709
+  W:     -.178   P:    -1.512   R:     1.255
+  EXT1:     0.000 mm  
+    [1,90] =   'ALEX P1' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -1187.460   Y: -1665.390   Z:  -310.000
+  W:     -.200   P:     0.000   R:   -89.700
+  EXT1: -1290.460 mm  
+    [1,91] =   'ALEX P2' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -1190.007   Y: -1472.825   Z:  -310.882
+  W:     -.198   P:      .002   R:   -89.701
+  EXT1: -1290.460 mm  
+    [1,92] =   'ALEX P3' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1: -1290.400 mm  
+    [1,93] =   'X OFFSET' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:    25.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,94] =   'Y OFFSET' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:    25.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,95] =   'HOLE' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   525.000   Y:   -25.000   Z:     0.000
+  W:     0.000   P:     0.000   R:    90.000
+  EXT1: -1290.460 mm  
+    [1,96] =   'FLIGHT HEIGHT' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:    50.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,97] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  -725.713   Y: -2001.170   Z:   -67.311
+  W:     -.197   P:      .004   R:   -78.207
+  EXT1: -1114.402 mm  
+    [1,98] =   'low point' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   149.581   Y:    76.838   Z:   242.984
+  W:      .001   P:      .003   R:      .000
+  EXT1: -1114.402 mm  
+    [1,99] =   'high point' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   149.581   Y:    76.838   Z:   353.000
+  W:      .001   P:      .003   R:      .000
+  EXT1: -1114.402 mm  
+    [1,100] =   'SHOP MAINTCE' 
+  Group: 1   Config: N U T, 0, 0, 0
+  X:  3095.731   Y:  -269.103   Z:  -273.594
+  W:    80.039   P:     -.947   R:   -89.977
+  EXT1:  -328.758 mm  
+    [1,101] =   '' Uninitialized
+    [1,102] =   '' Uninitialized
+    [1,103] =   '' Uninitialized
+    [1,104] =   '' Uninitialized
+    [1,105] =   '' Uninitialized
+    [1,106] =   '' Uninitialized
+    [1,107] =   '' Uninitialized
+    [1,108] =   '' Uninitialized
+    [1,109] =   '' Uninitialized
+    [1,110] =   'Home pose'   Group: 1
+  J1 =   -13.562 deg   J2 =    18.367 deg   J3 =   -59.134 deg 
+  J4 =    23.667 deg   J5 =    63.207 deg   J6 =    78.551 deg 
+  EXT1:     -.001 mm  
+
+    [1,111] =   'ROS PR cache'   Group: 1
+  J1 =   -30.096 deg   J2 =    44.041 deg   J3 =   -54.817 deg 
+  J4 =    83.956 deg   J5 =    75.547 deg   J6 =    47.037 deg 
+  EXT1:     0.000 mm  
+
+    [1,112] =   'ROS PR move'   Group: 1
+  J1 =   -30.096 deg   J2 =    44.041 deg   J3 =   -54.817 deg 
+  J4 =    83.956 deg   J5 =    75.547 deg   J6 =    47.037 deg 
+  EXT1:     0.000 mm  
+
+    [1,113] =   'Current LPOS' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -1988.745   Y: -2024.224   Z:   898.258
+  W:     8.515   P:     8.323   R:  -132.226
+  EXT1: -1444.067 mm  
+    [1,114] =   'Current JPOS'   Group: 1
+  J1 =    -8.014 deg   J2 =   -59.531 deg   J3 =    -7.124 deg 
+  J4 =    95.178 deg   J5 =    54.119 deg   J6 =    -4.792 deg 
+  EXT1: -1444.067 mm  
+
+    [1,115] =   'sci-tail-UF' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  1252.034   Y:  -731.133   Z:  -894.042
+  W:     1.343   P:     -.259   R:   -96.092
+  EXT1: -1444.067 mm  
+    [1,116] =   'AI vision offset' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:  ******** mm  
+    [1,117] =   'CURR TCP POSE' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -2850.285   Y: -1046.418   Z:  -195.294
+  W:     8.516   P:     8.322   R:  -132.225
+  EXT1: -1444.067 mm  
+    [1,118] =   'Cam-Drill-Offset' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:  -129.666   Y:    67.427   Z:     3.000
+  W:     -.000   P:      .000   R:      .000
+  EXT1:     0.000 mm  
+    [1,119] =   'surf-drill-offst' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:    30.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,120] =   'drill calib' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -1125.219   Y: -3048.082   Z:  -276.750
+  W:      .356   P:      .334   R:   179.955
+  EXT1: -1290.486 mm  
+    [1,121] =   '' Uninitialized
+    [1,122] =   '' Uninitialized
+    [1,123] =   '' Uninitialized
+    [1,124] =   '' Uninitialized
+    [1,125] =   '' Uninitialized
+    [1,126] =   '' Uninitialized
+    [1,127] =   '' Uninitialized
+    [1,128] =   '' Uninitialized
+    [1,129] =   '' Uninitialized
+    [1,130] =   'zero cart pose' 
+  Group: 1   Config: N D B, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1:     0.000 mm  
+    [1,131] =   '' Uninitialized
+    [1,132] =   '' Uninitialized
+    [1,133] =   '' Uninitialized
+    [1,134] =   '' Uninitialized
+    [1,135] =   '' Uninitialized
+    [1,136] =   '' Uninitialized
+    [1,137] =   '' Uninitialized
+    [1,138] =   '' Uninitialized
+    [1,139] =   '' Uninitialized
+    [1,140] =   '' Uninitialized
+    [1,141] =   '' Uninitialized
+    [1,142] =   '' Uninitialized
+    [1,143] =   '' Uninitialized
+    [1,144] =   '' Uninitialized
+    [1,145] =   '' Uninitialized
+    [1,146] =   '' Uninitialized
+    [1,147] =   '' Uninitialized
+    [1,148] =   '' Uninitialized
+    [1,149] =   '' Uninitialized
+    [1,150] =   '' Uninitialized
+    [1,151] =   '' Uninitialized
+    [1,152] =   '' Uninitialized
+    [1,153] =   '' Uninitialized
+    [1,154] =   '' Uninitialized
+    [1,155] =   '' Uninitialized
+    [1,156] =   '' Uninitialized
+    [1,157] =   '' Uninitialized
+    [1,158] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1: -1114.000 mm  
+    [1,159] =   '' Uninitialized
+    [1,160] =   '' Uninitialized
+    [1,161] =   '' Uninitialized
+    [1,162] =   '' Uninitialized
+    [1,163] =   '' Uninitialized
+    [1,164] =   '' Uninitialized
+    [1,165] =   '' Uninitialized
+    [1,166] =   '' Uninitialized
+    [1,167] =   '' Uninitialized
+    [1,168] =   '' Uninitialized
+    [1,169] =   '' Uninitialized
+    [1,170] =   '' Uninitialized
+    [1,171] =   '' Uninitialized
+    [1,172] =   '' Uninitialized
+    [1,173] =   '' Uninitialized
+    [1,174] =   '' Uninitialized
+    [1,175] =   '' Uninitialized
+    [1,176] =   '' Uninitialized
+    [1,177] =   '' Uninitialized
+    [1,178] =   '' Uninitialized
+    [1,179] =   '' Uninitialized
+    [1,180] =   '' Uninitialized
+    [1,181] =   '' Uninitialized
+    [1,182] =   '' Uninitialized
+    [1,183] =   '' Uninitialized
+    [1,184] =   '' Uninitialized
+    [1,185] =   '' Uninitialized
+    [1,186] =   '' Uninitialized
+    [1,187] =   '' Uninitialized
+    [1,188] =   '' Uninitialized
+    [1,189] =   '' Uninitialized
+    [1,190] =   '' Uninitialized
+    [1,191] =   '' Uninitialized
+    [1,192] =   ''   Group: 1
+  J1 =     0.000 deg   J2 =     0.000 deg   J3 =     0.000 deg 
+  J4 =     0.000 deg   J5 =     0.000 deg   J6 =     0.000 deg 
+  EXT1:     0.000 mm  
+
+    [1,193] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   761.135   Y:  1942.516   Z:    43.397
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1: -1050.000 mm  
+    [1,194] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   662.135   Y:   952.516   Z:    43.413
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1: -1050.001 mm  
+    [1,195] =   'hole1-testfix' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   658.535   Y:   916.516   Z:    43.413
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1: -1050.000 mm  
+    [1,196] =   'ROBOT ZERO' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:    50.800   Y:   304.800   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1: -1500.000 mm  
+    [1,197] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:     0.000   Y:     0.000   Z:     0.000
+  W:     0.000   P:     0.000   R:     0.000
+  EXT1: -1500.000 mm  
+    [1,198] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:    50.800   Y:   304.800   Z:     0.000
+  W:     0.000   P:     0.000   R:   -90.000
+  EXT1: -1500.000 mm  
+    [1,199] =   '' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X:   101.600   Y:   609.600   Z:     0.000
+  W:     0.000   P:     0.000   R:   -90.000
+  EXT1: -1500.000 mm  
+    [1,200] =   'ZS' 
+  Group: 1   Config: F U T, 0, 0, 0
+  X: -1752.229   Y:  4891.769   Z:   633.252
+  W:     -.063   P:     -.060   R:   -89.121
+  EXT1: -1288.202 mm  
+
+[*POSREG*]$MAXPREGNUM  Storage: CMOS  Access: RW  : INTEGER = 200
+

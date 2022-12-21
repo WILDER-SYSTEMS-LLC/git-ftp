@@ -1,0 +1,49 @@
+Func       Date      Time    Tick       NavID              Text
+POWR  72 13-SEP-22 05:14:44  cdc4 Power Cycle 
+POWR  72 13-SEP-22 05:18:44  5e28 Power Cycle 
+KEY   72 13-SEP-22 05:19:10  9309 /wizard/guided/steps Initial Setup
+KEY   72 13-SEP-22 05:19:10  9309 /wizard/guided/steps Initial Setup
+KEY   72 13-SEP-22 05:22:18    76 /nav/core/home HOME
+EXIT  72 13-SEP-22 05:22:18    77 955 1 
+POWR  72 13-SEP-22 06:17:30  36f8 Power Cycle 
+POWR  72 13-SEP-22 06:24:56  36f3 Power Cycle 
+POWR  72 13-SEP-22 07:32:56  36ea Power Cycle 
+POWR  72 13-SEP-22 07:59:58  36e6 Power Cycle 
+POWR  72 13-SEP-22 21:46:30  3719 Power Cycle 
+POWR  72 13-SEP-22 23:37:46  3723 Power Cycle 
+POWR  72 14-SEP-22 00:03:18  3716 Power Cycle 
+POWR  72 14-SEP-22 00:08:44  3717 Power Cycle 
+POWR  72 14-SEP-22 00:13:34  3736 Power Cycle 
+POWR  72 14-SEP-22 00:24:20  3728 Power Cycle 
+POWR  72 14-SEP-22 03:25:06  3722 Power Cycle 
+POWR  72 14-SEP-22 22:01:34  55b0 Power Cycle 
+POWR  72 15-SEP-22 21:56:30  4b21 Power Cycle 
+POWR  72 15-SEP-22 23:18:16  368f Power Cycle 
+POWR  72 15-SEP-22 23:43:58  3682 Power Cycle 
+POWR  72 16-SEP-22 02:19:34  3696 Power Cycle 
+POWR  72 16-SEP-22 02:31:10  368d Power Cycle 
+POWR  72 16-SEP-22 06:49:36  3685 Power Cycle 
+POWR  72 16-SEP-22 07:16:38  3689 Power Cycle 
+POWR  72 16-SEP-22 08:30:08  3681 Power Cycle 
+POWR  72 21-SEP-22 04:03:38  3564 Power Cycle 
+POWR  72 21-SEP-22 04:08:00  3697 Power Cycle 
+KEY   72 21-SEP-22 04:08:02  38b7 /wizard/guided/steps Initial Setup
+KEY   72 21-SEP-22 04:08:02  39a5 /wizard/guided/steps Initial Setup
+KEY   72 21-SEP-22 04:14:02  f846 /wizard/guided/steps Initial Setup
+KEY   72 21-SEP-22 04:14:50  54d3 /wizard/guided/steps Initial Setup
+EXIT  72 21-SEP-22 04:14:50  54d4 37 1 
+POWR  72 21-SEP-22 21:46:14  40b6 Power Cycle 
+POWR  72 22-SEP-22 01:58:04  36a6 Power Cycle 
+POWR  72 22-SEP-22 22:06:20  472d Power Cycle 
+POWR  72 23-SEP-22 04:19:48  36ad Power Cycle 
+POWR  72 23-SEP-22 22:34:12  40e1 Power Cycle 
+POWR  72 20-DEC-22 00:52:36  365f Power Cycle 
+POWR  72 20-DEC-22 01:10:10  380b Power Cycle 
+POWR  72 20-DEC-22 02:04:22  422e Power Cycle 
+POWR  72 20-DEC-22 02:13:42  3626 Power Cycle 
+POWR  72 20-DEC-22 02:26:26  37fe Power Cycle 
+POWR  72 20-DEC-22 06:42:36  368c Power Cycle 
+POWR  72 21-DEC-22 00:12:52  3b2b Power Cycle 
+POWR  72 21-DEC-22 04:48:32  44d3 Power Cycle 
+POWR  72 21-DEC-22 08:14:58  3672 Power Cycle 
+POWR  72 22-DEC-22 00:17:20  36a3 Power Cycle 

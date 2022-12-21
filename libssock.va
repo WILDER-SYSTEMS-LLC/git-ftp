@@ -1,0 +1,8 @@
+[LIBSSOCK]$SSOCK_T  Storage: DRAM  Access: RW  : SSOCK_T = 
+   Field: $SSOCK_T.CONNECTED_ Access: RW: BOOLEAN = Uninitialized
+   Field: $SSOCK_T.STATUS_ Access: RW: INTEGER = Uninitialized
+   Field: $SSOCK_T.PORT_ Access: RW: INTEGER = Uninitialized
+   Field: $SSOCK_T.TAG_IDX_ Access: RW: INTEGER = Uninitialized
+   Field: $SSOCK_T.TAG_STR_ Access: RW: STRING[3] = Uninitialized
+   Field: $SSOCK_T.HCFG_STR_ Access: RW: STRING[30] = Uninitialized
+

@@ -1,0 +1,68 @@
+[ROS_RELAY]CFG_  Storage: SHADOW  Access: RW  : RRELAY_CFG_T = 
+   Field: CFG_.CHECKED Access: RW: BOOLEAN = TRUE
+   Field: CFG_.F_MSM_RDY Access: RW: INTEGER = 61
+   Field: CFG_.F_MSM_DRDY Access: RW: INTEGER = 62
+   Field: CFG_.LOOP_HZ Access: RW: INTEGER = 42
+   Field: CFG_.MOVE_CNT Access: RW: INTEGER = 50
+   Field: CFG_.MOVE_SPEED Access: RW: INTEGER = 20
+   Field: CFG_.PR_MOVE Access: RW: INTEGER = 111
+   Field: CFG_.R_MOVE_SPD Access: RW: INTEGER = 61
+   Field: CFG_.R_MOVE_CNT Access: RW: INTEGER = 62
+   Field: CFG_.S_TCP_NR Access: RW: INTEGER = 11000
+   Field: CFG_.S_TAG_NR Access: RW: INTEGER = 4
+   Field: CFG_.UM_CLEAR Access: RW: BOOLEAN = TRUE
+
+[ROS_RELAY]PKT_IN_  Storage: DRAM  Access: RW  : IND_PKT_T = 
+   Field: PKT_IN_.LENGTH_ Access: RW: INTEGER = 56
+   Field: PKT_IN_.MSG_TYPE_ Access: RW: INTEGER = 0
+   Field: PKT_IN_.COMM_TYPE_ Access: RW: INTEGER = 0
+   Field: PKT_IN_.REPLY_TYPE_ Access: RW: INTEGER = 0
+   Field: PKT_IN_.SEQ_NR_ Access: RW: INTEGER = 0
+   Field: PKT_IN_.JOINT_DATA_  ARRAY[10] OF REAL
+    [1] = 0.000000e+00
+    [2] = 0.000000e+00
+    [3] = 0.000000e+00
+    [4] = 0.000000e+00
+    [5] = 0.000000e+00
+    [6] = 0.000000e+00
+    [7] = 0.000000e+00
+    [8] = 0.000000e+00
+    [9] = 0.000000e+00
+    [10] = 0.000000e+00
+   Field: PKT_IN_.VELOCITY_ Access: RW: REAL = 0.000000e+00
+   Field: PKT_IN_.DURATION_ Access: RW: REAL = 0.000000e+00
+
+[ROS_RELAY]PKT_OUT_  Storage: DRAM  Access: RW  : IND_PKT_T = 
+   Field: PKT_OUT_.LENGTH_ Access: RW: INTEGER = 56
+   Field: PKT_OUT_.MSG_TYPE_ Access: RW: INTEGER = 10
+   Field: PKT_OUT_.COMM_TYPE_ Access: RW: INTEGER = 3
+   Field: PKT_OUT_.REPLY_TYPE_ Access: RW: INTEGER = 1
+   Field: PKT_OUT_.SEQ_NR_ Access: RW: INTEGER = 0
+   Field: PKT_OUT_.JOINT_DATA_  ARRAY[10] OF REAL
+    [1] = 0.000000e+00
+    [2] = 0.000000e+00
+    [3] = 0.000000e+00
+    [4] = 0.000000e+00
+    [5] = 0.000000e+00
+    [6] = 0.000000e+00
+    [7] = 0.000000e+00
+    [8] = 0.000000e+00
+    [9] = 0.000000e+00
+    [10] = 0.000000e+00
+   Field: PKT_OUT_.VELOCITY_ Access: RW: REAL = 0.000000e+00
+   Field: PKT_OUT_.DURATION_ Access: RW: REAL = 0.000000e+00
+
+[ROS_RELAY]SHUTDWN_REQ_  Storage: DRAM  Access: RW  : BOOLEAN = FALSE
+
+[ROS_RELAY]SLEEP_TIME_  Storage: DRAM  Access: RW  : INTEGER = 24
+
+[ROS_RELAY]SOCK_  Storage: DRAM  Access: RW  : SSOCK_T = 
+   Field: SOCK_.CONNECTED_ Access: RW: BOOLEAN = FALSE
+   Field: SOCK_.STATUS_ Access: RW: INTEGER = 0
+   Field: SOCK_.PORT_ Access: RW: INTEGER = 11000
+   Field: SOCK_.TAG_IDX_ Access: RW: INTEGER = 4
+   Field: SOCK_.TAG_STR_ Access: RW: STRING[3] = 'S4:'
+   Field: SOCK_.HCFG_STR_ Access: RW: STRING[30] = '$HOSTS_CFG[4]'
+
+[ROS_RELAY]STAT_  Storage: DRAM  Access: RW  : INTEGER = -67208
+
